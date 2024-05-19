@@ -14,7 +14,7 @@ package com.mycompany.ccuenta;
 public class Repaso {
     
     /**
-     * valor entero
+     * valor entero jeje
      */
     public int a;
     
